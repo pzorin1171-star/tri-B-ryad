@@ -1,7 +1,7 @@
 {
   "name": "match3-multiplayer-competition",
   "version": "1.0.0",
-  "description": "Multiplayer Match-3 competition game for 2-4 players",
+  "description": "Multiplayer Match-3 competition game with single player modes",
   "main": "server.py",
   "scripts": {
     "start": "python server.py",
@@ -11,7 +11,8 @@
     "match3",
     "multiplayer",
     "game",
-    "competition"
+    "competition",
+    "singleplayer"
   ],
   "author": "Your Name",
   "license": "MIT",
